@@ -1,0 +1,16 @@
+{
+    "name": "yaroslawww/quick-maintenance-mode",
+    "description": "Wordpress Plugin: Quick maintenance mode page",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaroslav Georgitsa",
+            "email": "yaroslav.georgitsa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "MaintenancePage\\": ["src/"] }
+    },
+    "require": {}
+}
